@@ -7,7 +7,19 @@ head {
 
 body {
 	text-align: center;
-	font-size: 28px;
-	font-family: "Comic Sans MS";
-	background-color: yellow;
+	font-size: 12px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+ul {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.header {
+	font-style: italic;
+}
+
+.name {
+	font-weight: bold;
 }
